@@ -49,7 +49,7 @@ connection_options = {
     "user": db_username,
     "password": db_password,
     "redshiftTmpDir": args["TempDir"],
-    "aws_iam_role": "arn:aws:iam::xxxxxxxxxxxx:role/genomedwtest-s3-access"
+    "aws_iam_role": "arn:aws:iam::xxxxxxxxxxxx:role/dwtest-s3-access"
 }
 
 
